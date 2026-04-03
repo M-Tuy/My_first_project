@@ -7,3 +7,5 @@ Most evidence suggests that temperate and boreal forest growth is primarily N-li
 # Innovative- recycling of waste products
 
 Many studies have explored the solubility and availability of P after ash application, but the results reported are sometimes contradictory. Moreover, the mechanisms involved and the fate of ash-bound P product (P speciation) upon addition are largely unknown. Detailed information on the molecular-scale speciation and fate of native and applied P is therefore needed for a fundamental understanding of the reactions that affect P mobility and solubility. To date, this knowledge is lacking for northern boreal soils.
+
+Download my [doctoral theses](https://pub.epsilon.slu.se/29758/1/tuyishime-m-2022-11-23.pdf)
